@@ -1,3 +1,4 @@
 node-modules
 server.cert
 server.key
+config.js
